@@ -1,4 +1,4 @@
-# Subliminal-Vision-Board-Sample
+# Subconscious-Vision-Board-Sample
 <b>App description:</b><br>
 This app allows users to add images from Photos, delete and re-arrange them by using long press gesture recognizer and play them at a rapid speed. I’ve implemented local notifications and stored them in UserDefaults to help users achieve their life goals. I also designed the app and its user experience.
 <br><br>
@@ -13,8 +13,8 @@ This app allows users to add images from Photos, delete and re-arrange them by u
 <li>Created signing identities, provisioning profiles and certificates for the App Store submissions process and shipped the app.</li>
 </ul>
 <p>
-<a href="https://itunes.apple.com/us/app/subliminal-vision-board/id1235167955?ls=1&mt=8" target="_blank">Link to download the Subliminal Vision Board App from the Apple App Store</a><br>
-<a href="http://subliminalvisionboardapp.com/" target="_blank">Subliminal Vision Board App Website</a>
+<a href="https://itunes.apple.com/us/app/subconscious-vision-board/id1235167955?ls=1&mt=8" target="_blank">Link to download the Subconscious Vision Board App from the Apple App Store</a><br>
+<a href="http://subconsciousvisionboard.com/" target="_blank">Subliminal Vision Board App Website</a>
 </p>
 <br>
 <br>
